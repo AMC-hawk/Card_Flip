@@ -1,7 +1,7 @@
 # Card_Flip
 A basic memory game implemented using HTML, CSS &amp; JS. 
 
-The game will save your stats locally, via localStorage.
+The game will save your stats locally, via local-Storage.
 
 GAME INSRUCTIONS:
 
@@ -13,10 +13,10 @@ Click the big P to choose one of three levels:
 - Medium
 - Hard
 
-The game will save your stats locally, via localStorage.
+The game will save your stats locally, via local-Storage.
 Click the F to see your stats.
 
-Click I for these intructions.
+Click I for these instructions.
 
 Flip is a timed card memory game. When starting a level, there's a red bar on top of the screen that shows how much time you have left.
 Click the green cards to see what symbol they uncover and try to find the matching symbol underneath the other cards.
